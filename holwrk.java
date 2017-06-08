@@ -1,5 +1,5 @@
 import java.*;
-class hol
+class holwrk
 {
   public static void main(String args[])
   {
