@@ -1,5 +1,5 @@
 import java.*;
-class holiday
+class hol
 {
   public static void main(String args[])
   {
